@@ -26,11 +26,11 @@
 </tbody>
 </table>
   ## Description
-**<div align="center">Hola Folks<br>
+<div align="center">Hola Folks<br>
 <br>Hope You're doing great.<br>
 <br>This is a Practical file on the subject Design and Ananlysis of Algorithms. <br>
 <br>_Language used_ -> C++<br>
-<br></div>**
+<br></div>
 
 ```
 ```

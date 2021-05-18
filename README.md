@@ -13,18 +13,25 @@
 <tbody>
 <tr>
   <td>1.</td>
-  <td><a href="https://github.com/Riya500/DAA-Practical-2021/blob/main/1.%20Red%20Black%20Tree%20%40Riya.cpp">Red Black Tree</td>
+  <td><a href="https://github.com/Riya500/DAA-Practical-2021/blob/main/1.%20Red%20Black%20Tree%20%40Riya.cpp">Red Black Tree @ Riya</td>
 </tr>
 <tr>
   <td>2.</td>
-  <td><a href="https://github.com/Riya500/DAA-Practical-2021/blob/main/2.%20Minimum%20Spanning%20Tree%20%40Riya.cpp">Minimum Spanning Tree</td>
+  <td><a href="https://github.com/Riya500/DAA-Practical-2021/blob/main/2.%20Minimum%20Spanning%20Tree%20%40Riya.cpp">Minimum Spanning Tree @Riya</td>
 </tr>  
 <tr>
   <td>3.</td>
-  <td><a href="https://github.com/Riya500/DAA-Practical-2021/blob/main/3.%20Sorting%20techniques%20%40Riya.cpp">Sorting Techniques</td>
+  <td><a href="https://github.com/Riya500/DAA-Practical-2021/blob/main/3.%20Sorting%20techniques%20%40Riya.cpp">Sorting Techniques @Riya</td>
 </tr>
 </tbody>
 </table>
+ - ## Description
+
+ **<div align="center">Hola Folks<br>
+<br>Hope You're doing great.<br>
+<br>This is a Practical file on the subject Design and Ananlysis of Algorithms. <br>
+<br>_Language used_ -> C++<br>
+<br></div>**
 
 ```
 ```

@@ -13,15 +13,15 @@
 <tbody>
 <tr>
   <td>1.</td>
-  <td>Red Black Tree</a></td>
+  <td><a href="https://github.com/Riya500/DAA-Practical-2021/blob/main/1.%20Red%20Black%20Tree%20%40Riya.cpp">Red Black Tree</td>
 </tr>
 <tr>
   <td>2.</td>
-  <td>Minimum Spanning Tree</td>
+  <td><a href="https://github.com/Riya500/DAA-Practical-2021/blob/main/2.%20Minimum%20Spanning%20Tree%20%40Riya.cpp">Minimum Spanning Tree</td>
 </tr>  
 <tr>
   <td>3.</td>
-  <td>Implementing Different Sorts</td>
+  <td><a href="https://github.com/Riya500/DAA-Practical-2021/blob/main/3.%20Sorting%20techniques%20%40Riya.cpp">Sorting Techniques</td>
 </tr>
 </tbody>
 </table>

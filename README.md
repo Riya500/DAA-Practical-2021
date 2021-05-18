@@ -21,7 +21,7 @@
 </tr>  
 <tr>
   <td>3.</td>
-  <td><a href="https://github.com/Riya500/DAA-Practical-2021/blob/main/3.%20Sorting%20techniques%20%40Riya.cpp">Sorting Techniques @Riya</td>
+  <td><a href="https://github.com/Riya500/DAA-Practical-2021/blob/main/3.%20Sorting%20techniques%20%40Riya.cpp">Sorting techniques @Riya</td>
 </tr>
 </tbody>
 </table>

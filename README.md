@@ -209,7 +209,7 @@ The key process in quickSort is partition(). Target of partitions is, given an a
  
  >- #### Complexities for **DIFFERENT SORTS**
  <br>
- <img src="https://github.com/shivanshkumar999/DAA-Practical-2021/blob/main/comparison-of-sorting-algorithms-compare1-18082c14f960abf3.png?raw=true">
+ <img src="https://github.com/Riya500/DAA-Practical-2021/blob/main/comparison-of-sorting-algorithms-compare1-18082c14f960abf3.png">
  <br>
  
  > #### **Applications :**
